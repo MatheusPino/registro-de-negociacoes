@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub" src="https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png" height="100">
+  <img alt="GitHub" src="https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png" height="60">
 </p>
